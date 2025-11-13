@@ -1,15 +1,17 @@
-# `🪪`︲2025-Portfolio-V1 | (BETA) ♻️
+# `🪪`︲2025-Portfolio-V1.1 | (BETA) ♻️
+
 ---
 
-> `🔻`︲**Version :** 1.0 — Réalisé dans le cadre du **BTS SIO - Option SISR (Épreuve E5, Session 2025)**
+> `🔻`︲**Version :** 1.1 — Réalisé dans le cadre du **BTS SIO - Option SISR (Épreuve E5, Session 2025)**
 >
-> `◾`︲**Auteur :** *Trq-Builds*
+> `👤`︲**Auteur :** *Trq-Builds*
 >
 > `🔸`︲**Statut :** En cours d’amélioration... (BETA) ♻️  
 
 ---
 
-## `📘`︲Description du projet
+## `📘`︲Description du projet.
+
 ---
 
 Ce projet correspond à la **création d’un portfolio personnel** servant de support à l’épreuve **E5** du BTS SIO.  
@@ -28,7 +30,8 @@ Le site a été **généré à l’aide de Bolt.New** à partir d’un prompt sp
 
 ---
 
-## `🌐`︲Déploiement sur Netlify
+## `🌐`︲Déploiement sur Netlify.
+
 ---
 
 > [!TIP]
@@ -49,7 +52,7 @@ Aucune dépendance, aucun build : le site est **100 % statique** et prêt à l�
 
 ---
 
-## `🧰`︲Outils et Ressources utilisés
+## `🧰`︲Outils et Ressources utilisés.
 ---
 
 > [!TIP]
@@ -60,7 +63,6 @@ Aucune dépendance, aucun build : le site est **100 % statique** et prêt à l�
 
 * `🤖` **︲Bolt.Mew** ︲[`🌐`](https://bolt.new/)
 * `📄` **︲Documents d’annexes fournis**
-* `🌐` **︲Donarev419.com** ︲[`🌐`](https://donarev419.com/)
 * `🪨` **︲FMHY** ︲[`🌐`](https://smiley.cool/emoji-list.php)
 * `🤖` **︲GPT-5** ︲[`🌐`](https://chatgpt.com/)
 * `📦` **︲Notion** ︲[`🌐`](https://www.notion.com/fr)
