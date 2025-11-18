@@ -8,7 +8,7 @@
 >
 > `👤`︲**Auteur :** *Trq-Builds*
 >
-> `🔸`︲**Statut :** Opérationel à 10%. (Beaucoup de modifications à faire, mais il est au moins accessible.)
+> `🔸`︲**Statut :** **SUSPENDU** (Reherche de Solutions en cours...)
 >
 > `🔸`︲**Source/Fork :** https://github.com/codewithsadee/vcard-personal-portfolio
 >
